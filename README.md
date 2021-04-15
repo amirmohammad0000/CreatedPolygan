@@ -19,3 +19,6 @@ You can download these beautiful shapes by downloading this file and using it in
 You can use this link to see an example====https://github.com/amirmohammad0000/createdPolygan/blob/main/example.html
 
 
+To use this library, we need 2 things: You need to apply the ID "created____polygan" to the tag you want, and apply the "onmousemove" event to the tag, and write the name of this function "create____polygan" inside this event.
+
+
