@@ -4,7 +4,6 @@ document.addEventListener("mousemove", (e) => {
     page_x = e.clientX;
     page_y = e.clientY;
 });
-
 function create____polygan(padding = "10", borderWidth = "2", borderStyle = "solid", borderRadius = "100", zIndex = "9999999999", opacityForHide = "600") {
     let body = document.querySelector("#created____polygan");
     let span = document.createElement("span");
